@@ -45,5 +45,6 @@ The IMDB dataset is a comprehensive dataset of movies released over the years. T
 * Fix "imdb_score" and "title_year" outliers.
 * Output the cleaned up file onto a new csv called "clean_imdb.csv".
 
-
+## Conclusion:
+The IMDB dataset was successfully cleaned and preprocessed for further analysis using the methods outlined above. The cleaned up file, clean_imdb.csv, can be used for further analysis and modeling.
 
